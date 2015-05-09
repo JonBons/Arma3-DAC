@@ -39,6 +39,8 @@ Place a trigger on the map with following basic settings: Form and Size: arbitra
 
 fun = ["z1",[1,0,0,0],[ ],[ ],[ ],[ ],[1,1,0,6,1]] spawn DAC_Zone
 
+------------
+
 .. image:: short-instructions/_static/activation.png
 
 Description
