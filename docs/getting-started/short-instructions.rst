@@ -5,6 +5,10 @@ In this article:
 	- `Setup script version`_
 	- `Setup addon version`_
 	- `Activation`_
+	- `Description`_
+	- `Examples`_
+
+.. image:: short-instructions/_static/page1.png
 
 Setup script version
 --------------------
